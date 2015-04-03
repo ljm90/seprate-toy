@@ -1,0 +1,14 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.map-kuang{
+	width:500px;
+	height:500px;
+	
+	margin:0 auto;
+}
+.map-kuang img{
+	width:500px;
+	height:500px;
+}
